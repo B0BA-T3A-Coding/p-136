@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+}
+
+#heading{
+    font-size: 30px;
+    font-family: "Sofia", sans-serif;
+    width: 100%;
+    margin: 0px;
+}
+.hdtxt{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#startBtn, #numberofobjects, #status{
+    font-size: 18px;
+}
+
+
+canvas{
+    border: 2px, solid white;
+    border-radius: 10px;
+    margin-top: 180px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 2;
+    text-align: center;
+}
+
+#objectNameInput{
+border-radius: 10px;
+width: 50%;
+height: 5%;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+#objtxt{
+    font-family: "Sofia", sans-serif;
+}
